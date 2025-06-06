@@ -1,0 +1,16 @@
+node_modules/Add commentMore actions
+dist/
+*.log
+.env
+.npm/
+*.tsbuildinfo
+
+*.tsbuildinfo
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+
+docker-compose.override.yml
